@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ds658/AndroidStudioProjects/GmailClone2/app/src/main/java/com/example/gmailclone/MainActivity.kt" value="0.4466666666666667" />
+        <entry key="..\:/Users/ds658/AndroidStudioProjects/GmailClone2/app/src/main/java/com/example/gmailclone/components/AccDialog.kt" value="0.3333333333333333" />
+        <entry key="..\:/Users/ds658/AndroidStudioProjects/GmailClone2/app/src/main/java/com/example/gmailclone/components/HomeAppBar.kt" value="0.16666666666666666" />
+        <entry key="..\:/Users/ds658/AndroidStudioProjects/GmailClone2/app/src/main/java/com/example/gmailclone/components/MailList.kt" value="0.4466666666666667" />
+      </map>
+    </option>
+  </component>
+</project>
